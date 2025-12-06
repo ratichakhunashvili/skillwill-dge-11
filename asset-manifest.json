@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/skillwill-dge-11/static/css/main.5720cea6.css",
+    "main.js": "/skillwill-dge-11/static/js/main.665c0332.js",
+    "static/media/mevxedavmzes.jpg": "/skillwill-dge-11/static/media/mevxedavmzes.54cd3f5e9899b6e845d1.jpg",
+    "static/media/mzianigame.jpg": "/skillwill-dge-11/static/media/mzianigame.8834b1f437318a9a76e0.jpg",
+    "static/media/Me_bebia.jpg": "/skillwill-dge-11/static/media/Me_bebia.03a62ac13d14566001c5.jpg",
+    "static/media/Kukaracha_wigni.jpg": "/skillwill-dge-11/static/media/Kukaracha_wigni.87acdb0fb7b90f96e56d.jpg",
+    "index.html": "/skillwill-dge-11/index.html",
+    "main.5720cea6.css.map": "/skillwill-dge-11/static/css/main.5720cea6.css.map",
+    "main.665c0332.js.map": "/skillwill-dge-11/static/js/main.665c0332.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5720cea6.css",
+    "static/js/main.665c0332.js"
+  ]
+}
